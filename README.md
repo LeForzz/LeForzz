@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @markmelow
+- 👀 I’m interested in Computers
+- 🌱 I’m currently learning almost everything related to computers
