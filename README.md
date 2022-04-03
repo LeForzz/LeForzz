@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @markmelow
+- 👋 Hi, I’m Mark Andrei
 - 👀 I’m interested in Computers
 - 🌱 I’m currently learning almost everything related to computers
