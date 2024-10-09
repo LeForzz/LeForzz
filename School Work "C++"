@@ -39,11 +39,5 @@ int main (){
             cout << endl << "Both " << employee1 << " and " << employee2 << " earned the same salary." << endl;
         }
 
-    cout << endl << "Submitted By:" << endl;
-    cout << "Mark Andrei C. Melo" << endl;
-    cout << "CPE0003L - TE21" << endl;
-    cout << "October 8, 2024" << endl;
-    cout << "ASSIGNMENT F4" << endl;
-    
     return 0;
 }
